@@ -1,0 +1,10 @@
+*.swp
+*.swo
+*~
+.cache/
+.Xauthority
+.zcompdump
+.history
+.local/
+.gpg
+open-api-key

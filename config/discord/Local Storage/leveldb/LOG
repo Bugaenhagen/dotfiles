@@ -1,0 +1,6 @@
+2025/03/15-22:44:05.880 2cf02 Reusing MANIFEST /home/Cosmo/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/03/15-22:44:05.896 2cf02 Recovering log #38
+2025/03/15-22:44:05.897 2cf02 Reusing old log /home/Cosmo/.config/discord/Local Storage/leveldb/000038.log 
+2025/03/15-22:51:21.672 2cf02 Level-0 table #44: started
+2025/03/15-22:51:21.739 2cf02 Level-0 table #44: 3524686 bytes OK
+2025/03/15-22:51:21.746 2cf02 Delete type=0 #38

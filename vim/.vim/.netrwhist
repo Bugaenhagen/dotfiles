@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/Cosmo/.dotfiles/gervill'
+let g:netrw_dirhist_5='/home/Cosmo/.vim'
+let g:netrw_dirhist_4='/home/Cosmo/.mozilla'
+let g:netrw_dirhist_3='/home/Cosmo/.config/picom'
+let g:netrw_dirhist_2='/home/Cosmo'
+let g:netrw_dirhist_1='/home/Cosmo/AUR'

@@ -1,0 +1,165 @@
+!{{{ xcalc
+#Calculator Body 
+xcalc*geometry:                        200x275
+xcalc.ti.background:                   #002b36
+
+#Display Screen 
+xcalc.ti.bevel.background:             #073642
+xcalc.ti.bevel.screen.background:      #2aa198
+xcalc.ti.bevel.screen.DEG.background:  #2aa198
+xcalc.ti.bevel.screen.DEG.foreground:  #d33682
+xcalc.ti.bevel.screen.GRAD.background: #2aa198
+xcalc.ti.bevel.screen.GRAD.foreground: #d33682
+xcalc.ti.bevel.screen.RAD.background:  #2aa198
+xcalc.ti.bevel.screen.RAD.foreground:  #d33682
+xcalc.ti.bevel.screen.DEC.background:  #2aa198
+xcalc.ti.bevel.screen.DEC.foreground:  #d33682
+xcalc.ti.bevel.screen.HEX.background:  #2aa198
+xcalc.ti.bevel.screen.HEX.foreground:  #d33682
+xcalc.ti.bevel.screen.OCT.background:  #2aa198
+xcalc.ti.bevel.screen.OCT.foreground:  #d33682
+xcalc.ti.bevel.screen.INV.background:  #2aa198
+xcalc.ti.bevel.screen.INV.foreground:  #d33682
+xcalc.ti.bevel.screen.LCD.background:  #2aa198
+xcalc.ti.bevel.screen.LCD.foreground:  #073642
+xcalc.ti.bevel.screen.LCD.shadowWidth: 0
+xcalc.ti.bevel.screen.M.background:    #2aa198
+xcalc.ti.bevel.screen.M.foreground:    #073642
+xcalc.ti.bevel.screen.P.background:    #2aa198
+xcalc.ti.bevel.screen.P.foreground:    #073642
+
+#Keypad Configuration
+#Command Fore/Back will set color scheme
+#Individual Button config will override
+#xcalc.ti.Command.foreground:  #002b36
+#xcalc.ti.Command.background:  #073642
+
+#Function Buttons Surface
+xcalc.ti.button1.background:  #586e75
+xcalc.ti.button2.background:  #586e75
+xcalc.ti.button3.background:  #586e75
+xcalc.ti.button4.background:  #586e75
+xcalc.ti.button5.background:  #b58900
+xcalc.ti.button6.background:  #586e75
+xcalc.ti.button7.background:  #586e75
+xcalc.ti.button8.background:  #586e75
+xcalc.ti.button9.background:  #586e75
+xcalc.ti.button10.background: #586e75
+xcalc.ti.button11.background: #586e75
+xcalc.ti.button12.background: #586e75
+xcalc.ti.button13.background: #586e75
+xcalc.ti.button14.background: #586e75
+xcalc.ti.button15.background: #586e75
+xcalc.ti.button16.background: #586e75
+xcalc.ti.button17.background: #586e75
+xcalc.ti.button18.background: #586e75
+xcalc.ti.button19.background: #586e75
+xcalc.ti.button20.background: #586e75
+xcalc.ti.button21.background: #586e75
+xcalc.ti.button22.background: #586e75
+xcalc.ti.button23.background: #586e75
+xcalc.ti.button24.background: #586e75
+xcalc.ti.button25.background: #586e75
+xcalc.ti.button26.background: #586e75
+xcalc.ti.button29.background: #586e75
+xcalc.ti.button30.background: #586e75
+xcalc.ti.button31.background: #586e75
+xcalc.ti.button36.background: #586e75
+xcalc.ti.button41.background: #586e75
+xcalc.ti.button46.background: #586e75
+xcalc.ti.button51.background: #586e75
+
+#Function Buttons Lettering
+xcalc.ti.button1.foreground:  #dc322f
+xcalc.ti.button2.foreground:  #dc322f
+xcalc.ti.button3.foreground:  #dc322f
+xcalc.ti.button4.foreground:  #dc322f
+xcalc.ti.button5.foreground:  #002b36
+xcalc.ti.button6.foreground:  #dc322f
+xcalc.ti.button7.foreground:  #dc322f
+xcalc.ti.button8.foreground:  #dc322f
+xcalc.ti.button9.foreground:  #dc322f
+xcalc.ti.button10.foreground:  #dc322f
+xcalc.ti.button11.foreground:  #dc322f
+xcalc.ti.button12.foreground:  #dc322f
+xcalc.ti.button13.foreground:  #dc322f
+xcalc.ti.button14.foreground:  #dc322f
+xcalc.ti.button15.foreground:  #dc322f
+xcalc.ti.button16.foreground:  #dc322f
+xcalc.ti.button17.foreground:  #dc322f
+xcalc.ti.button18.foreground:  #dc322f
+xcalc.ti.button19.foreground:  #dc322f
+xcalc.ti.button20.foreground:  #dc322f
+xcalc.ti.button21.foreground:  #dc322f
+xcalc.ti.button22.foreground:  #dc322f
+xcalc.ti.button23.foreground:  #dc322f
+xcalc.ti.button24.foreground:  #dc322f
+xcalc.ti.button25.foreground:  #dc322f
+xcalc.ti.button26.foreground:  #dc322f
+xcalc.ti.button30.foreground:  #dc322f
+xcalc.ti.button31.foreground:  #dc322f
+xcalc.ti.button36.foreground:  #dc322f
+xcalc.ti.button41.foreground:  #dc322f
+xcalc.ti.button46.foreground:  #dc322f
+xcalc.ti.button51.foreground:  #dc322f
+xcalc.ti.button20.label:      /
+xcalc.ti.button3.label:       SQRT
+
+#Letter Keys Surface
+xcalc.ti.button27.background: #268bd2
+xcalc.ti.button28.background: #268bd2
+xcalc.ti.button29.background: #268bd2
+xcalc.ti.button32.background: #268bd2
+xcalc.ti.button33.background: #268bd2
+xcalc.ti.button34.background: #268bd2
+
+#Letter Keys Lettering
+xcalc.ti.button27.foreground: #cb4b16
+xcalc.ti.button28.foreground: #cb4b16
+xcalc.ti.button29.foreground: #cb4b16
+xcalc.ti.button32.foreground: #cb4b16
+xcalc.ti.button33.foreground: #cb4b16
+xcalc.ti.button34.foreground: #cb4b16
+
+#Operations Keys Surface
+xcalc.ti.button35.background: #6c71c4
+xcalc.ti.button40.background: #6c71c4
+xcalc.ti.button45.background: #6c71c4
+xcalc.ti.button50.background: #6c71c4
+xcalc.ti.button54.background: #6c71c4
+xcalc.ti.button55.background: #6c71c4
+
+#Operations Keys Lettering
+xcalc.ti.button35.foreground: #002b36
+xcalc.ti.button40.foreground: #002b36
+xcalc.ti.button45.foreground: #002b36
+xcalc.ti.button50.foreground: #002b36
+xcalc.ti.button54.foreground: #002b36
+xcalc.ti.button55.foreground: #002b36
+
+#Number Keys Surface
+xcalc.ti.button37.background: #d33682
+xcalc.ti.button38.background: #d33682
+xcalc.ti.button39.background: #d33682
+xcalc.ti.button42.background: #d33682
+xcalc.ti.button43.background: #d33682
+xcalc.ti.button44.background: #d33682
+xcalc.ti.button47.background: #d33682
+xcalc.ti.button48.background: #d33682
+xcalc.ti.button49.background: #d33682
+xcalc.ti.button52.background: #d33682
+xcalc.ti.button53.background: #d33682
+
+#Number Keys Lettering
+xcalc.ti.button42.foreground: #002b36
+xcalc.ti.button43.foreground: #002b36
+xcalc.ti.button44.foreground: #002b36
+xcalc.ti.button47.foreground: #002b36
+xcalc.ti.button48.foreground: #002b36
+xcalc.ti.button48.foreground: #002b36
+xcalc.ti.button52.foreground: #002b36
+xcalc.ti.button53.foreground: #002b36
+
+Calc*Cursor:                 hand2
+XCalc*ShapeStyle:            rectangle
+!}}}
